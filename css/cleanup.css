@@ -1,7 +1,7 @@
 /* write your override styles here */
 #wall .tag-1 {display: none;}
 
-.parent, #tag-5, .slick {display:none;}
+parent, #tag-5, .slick {display:none;}
 
-.parent, #tag-7:last_child, .slick {display: none;}
+ {display: none;}
 
